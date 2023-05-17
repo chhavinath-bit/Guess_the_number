@@ -1,1 +1,2 @@
 # Guess_the_number
+### created a guess the number web page with the help of HTML, CSS and JavaScript. Which give message in response of user's input. So when user input is greater than random number it will show try bigger number , similar when user's input is less than random number it will show try smaller number. On guessing right it will show congratulation you guessed it right and also on guessing it right it will generate new random number , so game will continue.
